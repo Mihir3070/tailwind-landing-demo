@@ -405,7 +405,7 @@ export default function Header() {
             <button className="bg-white text-blue-600 px-4 py-2 rounded-full text-sm">
               Try ClickLearn
             </button>
-            <button className="bg-orange-400 text-white px-4 py-2 rounded-full text-sm">
+            <button className="bg-primary-gradient hover:bg-primary-gradient-hover text-white px-4 py-2 rounded-full text-sm">
               Book a demo
             </button>
           </div>
